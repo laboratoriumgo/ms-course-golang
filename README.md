@@ -1,6 +1,6 @@
 # ms-course-golang
 Curso Microsoft Learn de Golang.
-
+https://docs.microsoft.com/pt-br/learn/modules/go-get-started/1-what-is-go
 
 O que é o Go?
 
